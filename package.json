@@ -1,0 +1,19 @@
+{
+  "name": "canvas2image",
+  "version": "1.0.0",
+  "description": "a tool of saving or converting canvas to images",
+  "main": "canvas2image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kull-AG/canvas2image.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kull-AG/canvas2image/issues"
+  },
+  "homepage": "https://github.com/Kull-AG/canvas2image#readme"
+}
