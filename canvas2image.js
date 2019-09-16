@@ -263,4 +263,4 @@ var Canvas2Image = function () {
 	};
 
 }();
-module.exports = Canvas2Image();
+module.exports = Canvas2Image;
